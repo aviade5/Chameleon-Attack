@@ -1,4 +1,4 @@
-# Chamelon-Attack
+# Chameleon-Attack
 
 Online social networks (OSNs) are ubiquitous attracting millions of users all over the world. 
 Being a popular communication media OSNs are exploited in a variety of cyber attacks. 
