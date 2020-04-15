@@ -44,7 +44,7 @@ Thanks,
 Ameen Maali
 LinkedIn Information Security Response Center
 
-####Citation
+###Citation
 
 In case of mentionaning the paper please use the following bibtex citation:
 @article{elyashar2020chameleon,
