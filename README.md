@@ -44,4 +44,16 @@ Thanks,
 Ameen Maali
 LinkedIn Information Security Response Center
 
+####Citation
+
+In case of mentionaning the paper please use the following bibtex citation:
+@article{elyashar2020chameleon,
+  title={The Chameleon Attack: Manipulating Content Display in Online Social Media},
+  author={Elyashar, Aviad and Uziel, Sagi and Paradise, Abigail and Puzis, Rami},
+  booktitle = {Proceedings of The Web Conference 2020 (WWW '20), April 20--24, 2020, Taipei, Taiwan},
+  year={2020}
+}
+
+
+
 
