@@ -25,5 +25,23 @@ are navigating to a known malicious URL. We appreciate you taking the time to su
 continue searching for vulnerabilities.
 Thank you for thinking of Twitter security.
 
+### Facebook
+Hi,
+Your report appears to describe a phishing attack against Facebook users and infrastructure. These types of issues are not eligible for our WhiteHat program. 
+Although we appreciate the report, such issues do not qualify under our bug bounty program.
+
+Thanks,
+Hatice
+Security
+
+
+### LinkedIn
+Hi,
+Thank you for sending over this additional detail. 
+We will investigate this potential issue, and let you know when we have updates to share.
+
+Thanks,
+Ameen Maali
+LinkedIn Information Security Response Center
 
 
